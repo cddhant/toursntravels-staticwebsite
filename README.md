@@ -15,3 +15,10 @@ This repository contains the static HTML and CSS code for a responsive prototype
 1. Clone the repository: `git clone https://github.com/cddhant/toursntravels-staticwebsite`
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the static prototype and provide feedback!
+
+## Screenshots
+
+![Screenshot 1](./Screenshots/Screenshot 1.png)
+![Screenshot 2](./Screenshots/Screenshot 2.png)
+![Screenshot 3](./Screenshots/Screenshot 3.png)
+![Screenshot 4](./Screenshots/Screenshot 4.png)
